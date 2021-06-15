@@ -10,6 +10,7 @@ Plantilla web para una tienda web enfocada a deportes, basada en la web de Stock
 * Bootstrap
 * **Vs Code**
 * GitHub
+* [Compress.io](https://compressor.io/) para comprimir imagenes
 
 ### Créditos
 Este proyecto fue creado por [Maximiliano Miranda](https://github.com/Maxi-rpc).
